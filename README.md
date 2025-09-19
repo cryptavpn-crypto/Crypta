@@ -24,9 +24,11 @@ CRYPTA provides users with privacy, staking rewards, NFT utility, and community-
 See [ROADMAP.md](ROADMAP.md) for milestones and development timeline.
 
 ## Support & Community
-Support CRYPTA by joining our community:
-- Telegram: @cryptaofficial1
-- Discord: (link)
-- Donations: https://giveth.io/project/crypta-crypto-ecosystem-with-wallet-vpn-staking
 
-Your support helps us accelerate development and expand the ecosystem!
+Join the CRYPTA ecosystem and be part of the journey!  
+
+- **Telegram:** [@cryptaofficial1](https://t.me/cryptaofficial1)  
+- **Discord:** [Join our Discord](https://discord.gg/aKDMZwJr)  
+- **Donations / Support the project:** [Giveth - CRYPTA](https://giveth.io/project/crypta-crypto-ecosystem-with-wallet-vpn-staking?apcid=0068cbf64fcddba9e16d3500)
+
+Your support helps accelerate development, expand the ecosystem, and bring privacy, staking, and NFT utility to the community!
