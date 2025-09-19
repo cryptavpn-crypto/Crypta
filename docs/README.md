@@ -9,3 +9,5 @@ This folder contains technical documentation for the CRYPTA ecosystem:
 
 Documentation is updated continuously as the project develops.
 
+> For questions, discussions, or support, join CRYPTA Telegram or Discord.  
+> Donations to help development are welcome via Giveth.
