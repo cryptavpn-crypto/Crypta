@@ -9,3 +9,5 @@ This folder contains example scripts and demonstrations for CRYPTA ecosystem com
 
 These demos help contributors and potential investors understand how the system works.
 
+> Support CRYPTA and join the community while exploring the demo!  
+> Telegram, Discord, and donations link available in main README.
